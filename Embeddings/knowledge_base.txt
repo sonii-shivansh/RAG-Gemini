@@ -1,0 +1,23 @@
+Device Setup Guide
+
+To set up your new device, first charge it fully for 2 hours.
+Then press and hold the power button for 3 seconds.
+Follow the on-screen setup wizard to complete installation.
+
+Resetting Your Device
+
+To perform a soft reset, hold the power button for 10 seconds.
+To perform a factory reset, go to Settings > System > Reset.
+Warning: Factory reset will erase all your data permanently.
+
+Battery and Charging
+
+Your device supports fast charging up to 65 watts.
+Use only the included charging cable for best results.
+Battery life is approximately 12 hours under normal usage.
+
+Warranty Information
+
+This device comes with a 1 year limited manufacturer warranty.
+The warranty covers defects in materials and workmanship.
+Physical damage and water damage are not covered by warranty.
