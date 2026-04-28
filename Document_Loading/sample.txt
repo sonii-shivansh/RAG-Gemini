@@ -1,0 +1,4 @@
+Artificial Intelligence is transforming industries.
+Machine learning models can now understand language.
+RAG systems help ground LLMs in real data.
+Vector databases store embeddings efficiently.
