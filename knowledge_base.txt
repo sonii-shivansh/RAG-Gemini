@@ -1,0 +1,31 @@
+Device User Manual
+
+1. Resetting Your Device
+To reset your device, press and hold the power button for 10 seconds until the screen turns off. Wait for a few seconds, then press the power button again to restart the device.
+
+2. Battery Life
+The device offers up to 10 hours of battery life on a full charge under normal usage conditions. Battery performance may vary depending on usage, settings, and environmental conditions.
+
+3. Charging Instructions
+Use the original charger provided in the box. Plug the charger into a power outlet and connect it to your device. A full charge typically takes around 2 hours.
+
+4. Water Damage Policy
+This device is not waterproof. Water damage is not covered under warranty. Avoid exposing the device to liquids or high humidity.
+
+5. Warranty Information
+The device comes with a one-year limited warranty covering manufacturing defects. Physical damage, water damage, and unauthorized repairs are not covered.
+
+6. Troubleshooting
+If your device is not responding, try restarting it. If the problem persists, perform a factory reset or contact customer support.
+
+7. Connectivity
+The device supports Wi-Fi and Bluetooth connectivity. To connect to Wi-Fi, go to Settings > Network > Wi-Fi and select your network.
+
+8. Storage
+The device comes with 64GB internal storage. You can expand storage using a compatible memory card up to 256GB.
+
+9. Software Updates
+Regular software updates improve performance and security. Go to Settings > System > Updates to check for updates.
+
+10. Customer Support
+For assistance, contact support at support@example.com or call +1-800-123-4567.
